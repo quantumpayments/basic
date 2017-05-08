@@ -1,6 +1,6 @@
 {
   "name": "qpm_basic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "basic quantum payments",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/quantumpayments/basic/issues"
   },
-  "homepage": "https://github.com/quantumpayments/basic#readme"
+  "homepage": "https://github.com/quantumpayments/basic#readme",
+  "dependencies": {
+    "electron": "^1.6.6"
+  }
 }
